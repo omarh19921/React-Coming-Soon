@@ -210,10 +210,10 @@ const Vimeo = ({ text, className, href }) =>
 
 const Title = () => (
   <Wrapper>
-    <Heading heading="Welcome to the new" subheading="Paula Novotna Website" content="Works in progress for Paula Novotná, the best kitesurfers in the Czech Republic and the current number two of the 2016 Clean Ocean Project Championship Tour."/>
-    <Instagram href="https://www.instagram.com/paulanovotna/" className="icon-instagram" />
-    <Email href="mailto:paula.novotna@gmail.com?Subject=Hello%20again" className="icon-mail2" />
-    <Vimeo href="https://vimeo.com/paulanovotna" className="icon-vimeo" />
+    <Heading heading="Welcome to the new" subheading="Broadway Supercars Website" content="We're working to give our customers the best user experience possible. We'll be launching very soon."/>
+    <Instagram href="https://www.instagram.com/broadywaysupercars/" className="icon-instagram" />
+    <Email href="mailto:sales@broadwaysupercars.com?Subject=Hello%20again" className="icon-mail2" />
+    <Vimeo href="https://vimeo.com/" className="icon-vimeo" />
   </Wrapper>
 );
 
