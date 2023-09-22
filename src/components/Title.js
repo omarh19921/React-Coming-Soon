@@ -210,7 +210,7 @@ const Vimeo = ({ text, className, href }) =>
 
 const Title = () => (
   <Wrapper>
-    <Heading heading="Welcome to the new" subheading="Broadway Supercars" content="We're working hard to give our customers the best user experience possible. We'll be launching very soon."/>
+    <Heading heading="" subheading="Coming Soon" content="We're working hard to give our customers the best user experience possible. We'll be launching very soon."/>
     <Instagram href="https://www.instagram.com/broadywaysupercars/" className="icon-instagram" />
     <Email href="mailto:sales@broadwaysupercars.com?Subject=Hello%20again" className="icon-mail2" />
     <Vimeo href="https://vimeo.com/" className="icon-vimeo" />
